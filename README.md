@@ -87,4 +87,6 @@ node test_pipeline.js
 *   **Safety**: Internal cross-checks between risk engine and CPIC.
 
 ---
-**Developers**: RIFT 2026 Hackathon Team
+**Built by**: Team Alpha Beta 
+Anand Choubey | Rohan Kumar
+RIFT 2026 Hackathon Team
